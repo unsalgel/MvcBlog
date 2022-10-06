@@ -1,0 +1,285 @@
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.AssemblyReference.cache
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.CoreCompileInputs.cache
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.exe
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.exe.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.rsp
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.exe
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.exe.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.rsp
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.AppContext.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Console.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.Compression.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Net.Http.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.ValueTuple.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.exe.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.rsp
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Antlr3.Runtime.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\BusinessLayer.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Newtonsoft.Json.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Optimization.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\WebGrease.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\BusinessLayer.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.dll.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.dll.config
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Optimization.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Newtonsoft.Json.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Antlr3.Runtime.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.CopyComplete
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.xml
+C:\Users\ÜNSAL\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\BusinessLayer.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.pdb
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\DataAccesLayer.dll.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.pdb
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityLayer.dll.config
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Administrator\Desktop\ASP. NET MVC  DERSLERİ\MvcBlog\obj\Debug\MvcBlog.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\MvcBlog.dll.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\MvcBlog.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\MvcBlog.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\BusinessLayer.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\DataAccesLayer.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityLayer.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\PagedList.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\DataAccesLayer.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\DataAccesLayer.dll.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityLayer.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityLayer.dll.config
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\PagedList.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\obj\Debug\MvcBlog.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\obj\Debug\MvcBlog.dll
+C:\Users\Administrator\Desktop\MvcBlog\MvcBlog\obj\Debug\MvcBlog.pdb

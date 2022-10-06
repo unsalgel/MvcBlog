@@ -1,0 +1,31 @@
+﻿@model EntityLayer.Concrete.Author
+
+@{
+    ViewBag.Title = "AuthorEdit";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+ 
+
+<form method="post">
+    <label>Yazar ID</label>
+    @Html.TextBoxFor(p => p.AuthorID, new { @class = "form-control" })
+    <label>Yazar Adı Soyadı</label>
+    @Html.TextBoxFor(p => p.AuthorName, new { @class = "form-control" })
+    <label>Resim</label>
+    @Html.TextBoxFor(p => p.AuthorImage, new { @class = "form-control" })
+    <label>Yazar  Yetenekler</label>
+    @Html.TextBoxFor(p => p.AboutShort, new { @class = "form-control" })
+    <label> Yazar statüsü</label>
+    @Html.TextBoxFor(p => p.AuthorTitle, new { @class = "form-control" })
+    <label>Yazar Hakkında</label>
+    @Html.TextAreaFor(p => p.AuthorAbout, 12, 3, new { @class = "form-control" })
+    <label> Mail</label>
+    @Html.TextBoxFor(p => p.Mail, new { @class = "form-control" })
+    <label> Sifre</label>
+    @Html.TextBoxFor(p => p.Password, new { @class = "form-control" })
+    <label> Telefon</label>
+    @Html.TextBoxFor(p => p.PhoneNumber, new { @class = "form-control" })
+    <br />
+
+    <button class="btn btn-info">Güncelle</button>
+</form>

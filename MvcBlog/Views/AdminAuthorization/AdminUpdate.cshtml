@@ -1,0 +1,20 @@
+﻿@model  EntityLayer.Concrete.Admin
+@{
+    ViewBag.Title = "AdminUpdate";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Güncelleme Sayfası</h2>
+<form method="post">
+    <label>Blog ID</label>
+    @Html.TextBoxFor(p => p.AdminID, new {@class = "form-control" })
+    <label>Kullanıcı Adı</label>
+    @Html.TextBoxFor(p => p.UserName, new { @class = "form-control" })
+    <label>Şifre</label>
+    @Html.TextBoxFor(p => p.Password, new { @class = "form-control" })
+    <label>ROL</label>
+    @Html.TextBoxFor(p => p.AdminRole, new { @maxlength = "1", @style = "text-transform:uppercase", @class = "form-control" })
+
+
+    <br />
+    <button class="btn btn-info">Güncelle</button>

@@ -1,0 +1,229 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Category>
+@{
+    ViewBag.Title = "AdminCategoryList";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+@{ string durum = "";}
+@{ string yazi = "";}
+
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Kategori Listesi</h3>
+                <div class="card-tools">
+
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+
+                        <i class="fas fa-minus"></i>
+
+                    </button>
+
+                    <button type="button" class="btn btn-tool" data-card-widget="remove" data-toggle="tooltip" title="Remove">
+
+                        <i class="fas fa-times"></i>
+
+                    </button>
+
+                </div>
+
+            </div>
+
+            <div class="card-body p-0">
+
+                <table class="table table-striped projects">
+
+                    <thead>
+
+                        <tr>
+
+                            <th style="width: 1%" class="text-center">
+
+                                #
+
+                            </th>
+
+                            <th style="text-align:center; width: 10%" class="text-center">
+
+                                Kategori Adı
+
+                            </th>
+
+                            <th style=" text-align: center; width: 12%" class="text-center">
+                                Son 3 Blog Yazarları
+
+                            </th>
+
+
+                            <th style=" text-align: center; width: 8%" class="text-center">
+
+                                Durum
+
+                            </th>
+
+                            <th style=" text-align: center; width: 30%" class="text-center">
+                                Butonlar
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            if (item.CategoryStatus == true)
+                            {
+                                durum = "badge-success";
+                                yazi = "Aktif";
+                            }
+                            else
+                            {
+                                durum = "badge-danger";
+                                yazi = "Pasif";
+                            }
+                            <tr>
+
+                                <td>
+
+                                    @item.CategoryID
+
+                                </td>
+
+                                <td>
+
+                                    <a>
+
+                                        <b class="text-center">@item.CategoryName</b>
+
+                                    </a>
+
+                                    <br />
+
+
+                                </td>
+
+                                <td>
+
+                                    <ul class="list-inline">
+
+                                        <li class="list-inline-item">
+
+                                            <img alt="Avatar" class="table-avatar" src="/AdminLTE-3.0.4/dist/img/avatar.png">
+
+                                        </li>
+
+                                        <li class="list-inline-item">
+
+                                            <img alt="Avatar" class="table-avatar" src="/AdminLTE-3.0.4/dist/img/avatar2.png">
+
+                                        </li>
+
+                                        <li class="list-inline-item">
+
+                                            <img alt="Avatar" class="table-avatar" src="/AdminLTE-3.0.4/dist/img/avatar3.png">
+
+                                        </li>
+
+                                    </ul>
+
+                                </td>
+
+                                <td class="project-state">
+                                    <span class="badge @durum">@yazi </span>
+                                </td>
+
+                                <td class="project-actions text-right">
+
+                                    <a class="btn btn-primary btn-sm" href="/Blog/BlogByCategory/@item.CategoryID">
+
+                                        <i class="fas fa-folder">
+
+                                        </i>
+
+                                        Yazılar
+
+                                    </a>
+
+                                    <a class="btn btn-info btn-sm" href="/Category/CategoryEdit/@item.CategoryID">
+
+                                        <i class="fas fa-pencil-alt">
+
+                                        </i>
+
+                                        Düzenle
+
+                                    </a>
+                                    <a class="btn btn-primary btn-sm" href="/Category/CategoryStatusFalse/@item.CategoryID">
+
+                                        <i class="fas fa-eye-slash">
+
+                                        </i>
+
+                                        Kategori Gizle
+
+                                    </a>
+                                    <a class="btn btn-dark btn-sm" href="/Category/CategoryStatusTrue/@item.CategoryID">
+
+                                        <i class="fas fa-eye">
+
+                                        </i>
+
+                                        Kategori Göster
+
+                                    </a>
+
+
+                                    @*<a class="btn btn-danger btn-sm" href="/Category/DeleteCategory/@item.CategoryID">
+
+                                            <i class="fas fa-trash">
+
+                                            </i>
+
+                                            Sil
+
+                                        </a>*@
+
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+            </div>
+
+            <!-- /.card-body -->
+
+        </div>
+        <button class="btn btn-info" data-toggle="modal" data-target="#modal1">Yeni Kategori Ekle</button>
+        <div class="modal" id="modal1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title">Yeni Kategori Ekleme Paneli</h2>
+                    </div>
+                    <form method="post" action="/Category/AdminCategoryAdd">
+                        <div class="modal-body">
+                            <label>Kategori Adı</label>
+                            <input type="text" name="CategoryName" class="form-control" />
+                            <br />
+                            <label>Kategori Açıklama</label>
+                            <textarea class="form-control" name="CategoryDescription" rows="5"></textarea>
+                            <br />
+                            <button class="btn btn-primary">Kategori Oluştur</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /.card -->
+
+    </section>
+
+</body>
+
+</html>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+@{
+    ViewBag.Title = "BlogByCategory";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+@{string color = "";}
+@foreach (var x in Model)
+{
+    if (x.Category.CategoryName == "Seyahat")
+    {
+        color = " text-white bg-primary ";
+    }
+    else if (x.Category.CategoryName == "Teknoloji")
+    {
+        color = " text-white bg-info ";
+    }
+    else if (x.Category.CategoryName == "Yazılım")
+    {
+        color = " text-white bg-warning ";
+    }
+    else if (x.Category.CategoryName == "Spor")
+    {
+        color = "text-white bg-danger ";
+    }
+    else if (x.Category.CategoryName == "Film & Dizi")
+    {
+        color = " text-white bg-success ";
+    }
+    else if (x.Category.CategoryName == "Kültür & Sanat")
+    {
+        color = " text-white bg-secondary ";
+    }
+}
+
+    <div class="py-5 bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span>Kategori</span>
+                    <h3>@ViewBag.CategoryName </h3>
+                    <p>@ViewBag.CategoryDescription</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="site-section bg-white">
+        <div class="container">
+
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 mb-4">
+                        <div class="entry2">
+                            <a href="/Blog/BlogDetails/@item.BlogID"><img src="@item.BlogImage" style="width:370px;height:250px;" alt="Image" class="img-fluid rounded"></a>
+                            <div class="excerpt">
+
+                                <span class="post-category text-white @color mb-3">@item.Category.CategoryName</span>
+
+                                <h2><a href="/Blog/BlogDetails/@item.BlogID">@item.BlogTitle.</a></h2>
+                                <div class="post-meta align-items-center text-left clearfix">
+                                    <figure class="author-figure mb-0 mr-3 float-left"><img src="@item.Author.AuthorImage" alt="Image" class="img-fluid"></figure>
+                                    <span class="d-inline-block mt-1">Yazar <a href="#">@item.Author.AuthorName</a></span>
+                                    <span>&nbsp;-&nbsp; @item.BlogDate.ToString("mm-ddd-yy")</span>
+                                </div>
+                                <p>@item.BlogContent.Substring(0, 200)</p>
+                                <p><a href="/Blog/BlogDetails/@item.BlogID">Devamını Oku</a></p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>          
+        </div>
+    </div>
+    @Html.Action("Footer", "About")
